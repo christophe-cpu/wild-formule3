@@ -16,7 +16,7 @@
 .navigation a{
      text-decoration:none ;
      color: var(--main-color);
-     width:20%;
+     width:30%;
      text-align: center;
      font-size: 1.5em;
 }
