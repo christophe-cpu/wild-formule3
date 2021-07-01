@@ -6,8 +6,8 @@ function Voitures({name, image}) {
         <div className="Voitures">
             <div className="voitures-cards">
                 <img className="Voiture-img" src={image} alt={name} />
-                <div>
-                    
+                <div className="F3-desc">
+                    <h3>name</h3>
                 </div>
 
             </div>
