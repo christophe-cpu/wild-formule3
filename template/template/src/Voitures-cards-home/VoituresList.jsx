@@ -6,7 +6,7 @@ function VoituresList() {
 
     const EMC2 ={
         name:"EMC²",
-        image:"file:///C:/Users/Utilisateur/Desktop/Nouveau%20dossier/photo-1508176694280-97e78b36d5fd.webp"
+        image:file:"///C:/Users/Utilisateur/Desktop/Nouveau%20dossier/photo-1508176694280-97e78b36d5fd.webp"
     };
 
     const STAND ={
